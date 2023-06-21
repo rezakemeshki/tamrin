@@ -1,0 +1,172 @@
+body {
+    display: flex;
+    margin: 8px;
+    padding: 6px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+color: #fdfafa;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+}
+
+
+
+.r {  position: absolute;
+    top: 1px;
+    display:inline-block;
+    justify-content: space-between;
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+   
+    background-color: #3ebfff;
+    
+}
+.skha {
+    width: 20px;
+    padding-left: 647px;
+
+}
+.aks2 {
+    display: flex;
+    flex-direction: column;
+    position:relative;
+}
+ .matn {
+    
+    position: absolute;
+    text-align: center;
+    bottom: 300px;
+    left: 25%;
+ }
+  .h21 {
+    padding: 0px;
+    margin-left: 250px;
+
+  }
+
+.h22 {
+margin-left: 320px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 35px;
+padding-bottom:20px;
+   }
+.h23 { 
+    
+margin-left: 260px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 35px;
+}
+.h24 {
+    margin-left: 320px;
+    padding-top:10px;
+}
+.h20 {
+    margin-left: 360px;
+}
+.ghsmt2 {
+    display: block;
+}
+.div1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 250px;
+    padding: 0px;
+}
+.paragraf {
+    margin-left: 250px;
+}
+.nnn {
+    margin-left: 350px;
+    
+}
+.mm {
+    margin-left: 330px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 30px;
+}
+.ghelas {
+    
+    position: relative;
+    text-align: center;
+    bottom: 450px;
+    left: 15px;
+    font-size: 50px;
+color: #679797;
+
+    
+}
+.bad {
+    position: relative;
+    bottom: 400px;
+    text-align: center;
+    left: 15px;
+    color: #679797;
+}
+.orng {
+    position: relative;
+    bottom: 180px;
+    
+}
+.torng {
+
+position: relative;
+bottom: 350px;
+text-align: center;
+left: 15px;
+color: #054875;
+font-size: 35px;
+
+}
+.narng {
+    position: relative;
+    text-align: center;
+    bottom: 300px;
+    color: #054875;
+}
+.tra {
+    position: relative;
+   text-align: center; 
+   left: 15px;
+   font-size: 18px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: rgb(159, 159, 159);
+    padding-top: 60px;
+    bottom: 150px;
+}
+   
+
+.emily {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 68px;
+    margin-bottom: 60px;
+    border-radius: 80px;
+    position: relative;
+    bottom: 50px;
+}
+.rrr {
+   position: relative;
+    left: 15px ;
+    text-align: center;
+}
+.rrrr {
+    position: relative;
+    left: 15px ;
+    text-align: center;
+    color: rgb(184, 184, 184);
+    font-size: 13px;
+}
+.fff {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 68px;
+    margin-bottom: 60px;
+    border-radius: 80px;
+    position: relative;
+    
+}
